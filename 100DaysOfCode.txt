@@ -1,0 +1,448 @@
+100 Days of Code 
+
+Day 1: Started on September 8, 2022 - Started working on the Landing Page Project for freeCodeCamp, even though I finished it in like 3 hours or less and submitted. I passed the tests. 
+
+Day 2: September 9, 2022 - Worked on the aesthetics of the project. Improving the look and feel of the site.
+
+Day 3: September 10, 2022 - Started the last set of practice projects on freeCodeCamp to earn my Responsive Web Design certificate. 
+
+Day 4: September 11, 2022 - Worked on my portfolio website. Did some rework on the navigation menu and applied new concepts I learnt from freeCodeCamp and MDN. Still got a lot more to do tho. Finished all the practice projects and also finshed the required personal portfolio project and received my certification. (Train whistle)
+
+Day 5: September 12,  2022 - Did some work on improving the fcc portfolio project and making it look aesthetically similar to the fcc's. I was able to wriggle my way around but I still have a feeling of not knowing much yet even as I have received my certificate.  I will try to go over the Flexbox and Grid layout concepts again to get in depth knowledge on their applications. 
+
+Day 6: September 13, 2022 - I did a little rework on the technical documentation project by fcc.  I was only able to write code for 15 minutes only as I feel under the weather. 
+
+Day 7: September 14, 2022 - Finally able to code for more than an hour today. I worked on the personal portfolio site project by fcc. Was trying to fix some layout issues. Also,  I couldn't get the images I wanted to use for the project section to fit into the container even when I use the object-fit property. Will prolly work on that next when I'm able to do use my device for long as I still don't feel too well. 
+
+Day 8 - September 15, 2022
+
+Started learning Javascript on the freeCodeCamp platform. 30% of the materials 
+for the basic levels completed. 
+
+Day 9 - September 16, 2022 
+
+Learnt more Javascript concepts on freeCodeCamp. Getting used to writing functions and various ways of writing conditional statements with switch and if/else statements. 70% basic level completed. Way to go! 
+
+Day 10 - September  17, 2022
+
+Solved some mini JS challenges implementing the concepts learnt from previous lessons. Learnt more about Javascript objects. Manipulation of objects: accessing,  replacing and nested objects. Currently working on the Record Collections challenge on freeCodeCamp. 
+
+Day 11 - September  18, 2022
+
+Still learning Javascript. Learnt about Recursion today. Still don't get it yet, but I will.  ?
+
+Day 12 -  September 19, 2022
+
+Tried to solve some JS challenges from the basic materials level on the freeCodeCamp platform. Stuck on two challenges (dumped one and went for the other) - Profile Lookup and Recursion of a range of numbers. Still battling  ? them. Constituting the 2% left to finish the ES5 lessons. 
+
+
+Day 13 - Sept 20,  2022 
+
+Continued work on my portfolio website project. Started it before even completing my responsive web design course on fCC. Still revamping and adding new features and fixing annoying bugs. Almost a  month now and still lagging. ?
+
+Day 14 - Sept 21, 2022
+
+Completed the ES5 module on fCC and moved to learning about ES6. Learnt about the arrow functions, destructors and currently on constructors. 
+
+Day 15 - Sept 22, 2022
+
+Completed the ES6 module and moved to the Regular Expressions module on freeCodeCamp. Getting ideas on how this might be used for form validations on the client side even tho you can't rely on it. Tell me I'm wrong. 
+
+Day 16 - Sept 23, 2022
+
+Stuck on the Regex module on fCC. Tearing my brain out on how to progress without checking the solutions. Feeling like I can't understand this. ?
+
+Day 17 - Sept 24, 2022
+
+One more challenge to go to finish the Regex module. Jumped ahead and completed the Debugging module. Moving to Data Structures soon. 
+
+Day 18 - Sept 25, 2022
+
+Finally completed the Regex module after like forever and now halfway through the Data Structures' on freeCodeCamp. 
+
+Day 19 - September 26, 2022
+
+Learnt more JS concepts and worked on my portfolio website. Experimented with the aesthetics and responsiveness. Need to learn to use Git soon to commit my works and get it hosted on github.io. 
+
+Day 20 - September 27, 2022
+
+Worked on my portfolio website. Fixed bugs and added new features. It's coming together. ??
+
+Day 21 - September 28, 2022
+
+Moved to the Basic Algorithm Scripting on freeCodeCamp. Struggling with the "Find the longest word in a string" challenge. 
+
+Day 22 - September 29, 2022
+
+Learnt to use Git and Github. Made my first push with a test file but subsequent ones to push my portfolio website files fails. Going through stackoverflow has been the norm today but still stuck. ?
+
+Day 23 - September 30, 2022
+
+Finally hosted my site on Github. Gonna update the hyperlinks and images but I'm just excited I got it online first. ?
+Can I please get a feedback on it? Thanks. Link below. 
+ mighty-odewumi.github.io/my-website
+
+Day 24 - October 1, 2022
+
+Worked on my website. Experimented with Font Awesome icons and updated the images and committed them to Github. 
+
+Day 25 - October 2, 2022
+
+1st quarter finished. ??
+
+Watched videos on improving UIs of websites and read the Refactoring UI book. A great read for anyone who wants to improve on designs. 
+
+Day 26 - October 3, 2022
+
+Working on redesigning my website. Currently using pen and paper tho cause I can't get Figma to work. Dunno why. ?
+
+Day 27 - October 4, 2022
+
+Continued redesigning my website. Switched to Windows Paint App 3D. Agony!!! Prolly have to find an alternative soon. 
+
+Day 28 - October 5, 2022
+
+Finally finished the redesign of my website, I hope. I might eventually add other stuffs but it's good looking now. 
+
+Day 29 - October 6, 2022
+
+Experimented with the look of the hero section to include new content. 
+
+Day 30 - October 7, 2022
+
+Did a pen and paper wireframe for the desktop version of my website redesign. Will start designing on a PC later but soon. 
+
+Day 31 - October 8, 2022
+
+Started redesigning the desktop version of my site on my PC. Still using Paint App 3D. 
+
+Day 32 - October 9, 2022
+
+Finished redesigning the desktop version of my site. Pretty quicker than the mobile version. Prolly cause I didn't have to waste time thinking of which things I should use. 
+
+Day 33 - October 10, 2022
+
+Started writing the code for my new site. Sketching out the HTML and reviewing what would be possible during implementation of the CSS. 
+
+Day 34 - October 11, 2022
+
+Continued rewriting the code for my new site. Still getting the HTML down tho. 
+
+Day 35 - October 12, 2022
+
+Went back to learning JS. Finally solved the 'find the longest word length' exercise on fCC after all these days. 
+
+Day 36 - October 13, 2022
+
+Solved an algorithm challenge to find the biggest numbers in sub-arrays on fCC. I also worked on my new portfolio website. 
+
+Day 37 - October 14, 2022
+
+Continued to work on my portfolio website redesign. 
+
+Day 38 - October 15, 2022
+
+Worked on my portfolio website redesign and a lil JS. The mobile view is almost completed, then will move to using media queries. 
+
+Day 39 - October 16, 2022
+
+Still on my portfolio website. Hunting down suitable icons across the net. Also solved some JS challenges on fCC. 
+
+Day 40 - October 17, 2022
+
+Worked on my new portfolio website. Started the media queries and it's looking pretty much ready for deployment soon. ?
+
+Day 41 - October 18, 2022
+
+New website ready for deployment. Implemented an hamburger menu and I'm just having a Haha moment for real. Pretty responsive stuff.  
+
+Day 42 - October 19, 2022
+
+Started learning the ropes of the Figma design tool. Edited a new portfolio template.
+
+Day 43 - October 20, 2022
+
+Tried to solve one JS challenge I've neglected for some days. The 'Finders Keepers' challenge on freeCodeCamp. 
+
+Day 44 - October 21, 2022
+
+Solved three JS challenges on freeCodeCamp, namely: 'Finders Keepers', 'Boo Who' and 'Title Case'(can't remember the name only function definition). 
+
+Day 45 - October 22, 2022
+
+Solved the 'splice and slice' js algorithm challenge on freeCodeCamp. 
+
+Day 46 - October 23, 2022
+
+Uploaded my new portfolio website online on Github. It's at https://mighty-odewumi.github.io/ports
+Also learnt to work with VSCode. Seems like everything missing from PyCharm. 
+
+Day 47 - October 24, 2022
+
+Tried to solve the 'Falsy Bouncer' challenge on fCC. Still can't yet. 
+
+Day 48, October 25, 2022
+
+Still like the previous day. Unable to solve the 'falsyBouncer' challenge on fCC yet. 
+
+Day 49 - October 26, 2022
+
+Stuck yet on the falsyBouncer challenge. Checked the hints and still not close to solving it. But tomorrow is the last time I will spend time on it. 
+
+Day 50 - October 27, 2022
+
+Reviewed a friend's html and css code and rewrote some stuffs where I saw that it was lacking. 
+
+Day 51 - October 28, 2022
+
+Still on my way to finishing the falsyBouncer algorithm. School doesn't grant much time to code. 
+
+Day 52 - October 29, 2022
+
+Solved the falsyBouncer problem on fCC. I also started working on a new challenge called 'Where do I belong'. 
+
+Day 53 - October 30, 2022
+
+Continued designing my third portfolio website. 
+
+Day 54 - October 31, 2022
+
+Completed the 'Where I Belong' challenge on fCC and started the 'Mutation' challenge. 
+
+Day 55 - November 1, 2022
+
+Did nothing much except to watch some videos on using the Figma design tool.
+
+Day 56 - November 2, 2022
+
+Started watching Google's UX course on YouTube and some other vids on using Figma. 
+
+Day 57 - November 3, 2022
+
+Started doing the mobile design of my new portfolio website on Figma. 
+
+Day 58 - November 4, 2022
+
+Watched a video on designing mobile apps with Figma. Not really related to web but the concept of the design is. 
+
+Day 59 - November 5, 2022
+
+Edited the content of my current portfolio website. 
+
+Day 60 - November 6, 2022
+
+Watched Google's UX design course on YouTube.
+
+Day 61 - November 7, 2022
+
+Continued watching Google's UX design course on YT.
+
+Day 62 - November 8, 2022
+
+Still watched Google's UX design course. Got limited time to write code but tried the Mutation challenge on fCC. 
+
+Day 63 - November 9, 2022
+
+Same routine as before. Watched Google UX vids. 
+
+Day 64 - November 10, 2022
+
+I watched a little vid on UX by Google on YouTube. 
+
+Day 65 - November 11, 2022
+
+Think I need to make this routine a function :-).  Watched Google's UX course vid on Youtube.
+
+Day 66 - November 12, 2022
+
+Watched the Google UX YouTube course.
+  
+Day 67 - November 13, 2022
+
+Worked on the design of my portfolio website on Figma. Finished the main design but will later fix some discrepancies. 
+
+Day 68 - November 14, 2022
+
+Finished watching the Google UX design course on YouTube. 
+
+Day 69 - November 15, 2022
+
+Started watching a DesignCode video on Portfolio Web Design in Figma. 
+
+Day 70 - November 16, 2022
+
+Started to watch a video on Mobile app design on Figma. 
+
+Day 71 - November 17, 2022
+
+Watched a fCC video on making wireframes.
+
+Day 72 - November 18, 2022
+
+Missed this day.
+
+Day 73 - November 19, 2022
+#100DaysOfCode
+
+Went for a Kotlin camp where I learnt to write Kotlin code and build Android apps.
+
+Day 74- November 20, 2022
+
+Missed this day.
+
+
+Day 75 - November 21, 2022
+#100DaysOfCode
+Did some codelabs from the Google's developer training on using Kotlin.
+
+Day 76 - November 22, 2022
+#100DaysOfCode
+Tried to install Android Studio but to no avail. Went on redesigning my Figma website design.
+
+Day 77 - November 23, 2022
+#100DaysOfCode
+
+Worked on my portfolio Figma design. And I also got Android Studio to install but still stuck on some other components I need to install.
+
+Day 78 - November 24, 2022
+#100DaysOfCode
+
+Browsed through design challenges on Frontend Mentor and started implementing a product card preview.
+
+Day 79 - November 25, 2022
+#100DaysOfCode
+
+Worked on the product preview implementation. Encountered some bugs and had an external review and active contribution to resolving it.
+
+Day 80 - November 26, 2022
+#100DaysOfCode
+
+Redesigned the product preview card from scratch and started with a mobile first design. Got a bug now in changing to desktop.
+
+Day 81 - November 27, 2022
+#100DaysOfCode
+
+Didn't do anything.
+
+Day 82 - November 28, 2022
+#100DaysOfCode
+
+Added a favicon and a cart image to the 'Add to Cart' button but haven't gotten the way to resize the image.
+
+Day 83 - November 29, 2022
+#100DaysOfCode
+
+Didn't code. I only did a little intro to someone who would love to learn coding.
+
+Day 84 - November 30, 2022
+#100DaysOfCode
+
+Created the folder layout of my other frontend Mentor projects. Haven't completed the product preview card yet tho. Finally found a way to manipulate the button image to be resized to the button's text size relatively.
+
+Day 85 - December 1, 2022
+#100DaysOfCode
+
+Worked on a new NFT card project.
+
+Day 86 - December 2, 2022
+#100DaysOfCode
+
+Almost finished work on my NFT card project. Only thing left is putting svg image icons to make the design look okay.
+
+Day 87 - December 3, 2022
+#100DaysOfCode
+
+Worked on my first Frontend Mentor project which is the Product Preview card. Made it work for the mobile view and still trying to implement the desktop view.
+
+Day 88 - December 4, 2022
+#100DaysOfCode
+
+Started a new project which is an Order Summary page from Frontend Mentors. Got some progress and will continue the next day.
+
+Day 89 - December 5, 2022
+#100DaysOfCode
+
+Started a new project which is the Profile Card component from Frontend Mentors. Did the Order Summary to a point where it is 90% complete. The only thing left is to download a music icon and change fonts.
+
+Day 90 - December 6, 2022
+#100DaysOfCode
+
+Did some paper UI/UX designs with a fictional company. Actually a banking app.
+
+Day 91 - December 7, 2022
+#100DaysOfCode
+
+I added finishing touches to the projects I've done from Frontend Mentors. Added original images and icons to some projects to make them resemble the original designs. I did the QR code design and started the Signup Form challenges.
+
+Day 92 - December 8, 2022
+#100DaysOfCode
+
+Got the Signup Form challenge to a reasonable point. Got the JS code left. Will return when I gain knowledge of client-side JS. Moved to creating the Easybank page today. Started applying basic styles.
+
+Day 93 - December 9, 2022
+#100DaysOfCode
+
+Continued working on the Easybank project. Continued styling and fixing bugs. 
+
+Day 94 - December 10, 2022
+#100DaysOfCode
+
+Still worked on my Easybank project. Got the mobile view down to a reasonable place. Got the nav menu left to do.
+
+Day 95 - December 11, 2022
+#100DaysOfCode
+
+I tried to work on the navigation bar of the mobile website. Read some materials from W3Schools. Will try to test some implementation soon.
+
+Day 96 - December 12, 2022
+#100DaysOfCode
+
+Started implementation of the dropdown and trying out a few things to see which sticks and works for the proposed design.
+
+Day 97 - December 13, 2022
+#100DaysOfCode
+
+Continued the responsive navigation design by watching some YouTube vids and learning some tricks to style nav bars.
+
+Day 98 - December 14, 2022
+#100DaysOfCode
+
+Learnt to make my cards of the same height irrespective of content length. Also changed the font of the easyBank project to be Public Sans, the recommended font from Frontend Mentors. 
+
+Day 99 - December 15, 2022
+#100DaysOfCode
+
+I redesigned my portfolio website with Figma.
+
+Day 100 - December 16, 2022
+#100DaysOfCode
+
+Did the tablet version of the easyBank webpage.
+
+Day 101 - December 17, 2022
+#100DaysOfCode
+
+I tried out squarespace to try to build a website for a friend but will try out other options.
+
+Day 102 - December 18, 2022
+#100DaysOfCode
+
+I made the desktop footer look similar to the original Frontend Mentor design.
+
+Day 103 - December 19, 2022
+#100DaysOfCode
+
+Worked through my other designs and tried to correct stuffs and finish the productPreview design. 
+
+Day 104 - December 20, 2022
+#100DaysOfCode
+
+Started a new project, the Insure Landing Page from Frontend Mentor. Laid out the HTML skeleton. Will continue with the CSS later. Think I'm done with my 100DaysOfCode. Dunno yet tho.
+
+Day 105 - December 21, 2022
+#100DaysOfCode
+
+Uploaded one of my projects, the QR Code design to Github and submitted it on the Frontend Mentor platform, earning my first 10 points. 
+    Exams too close. Won't be writing code like before any longer. Hopefully next year, we go again.
+
+
